@@ -7,12 +7,6 @@
 <p align="left">
 <a href="https://linkedin.com/in//in/cuauhtlihc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/cuauhtlihc/" height="30" width="40" /></a>
 </p>
-
-<p align="center">
-<a href="https://github.com/CuauhtliHC">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CuauhtliHC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
 </div>
 
-![CuauhtliHC's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuauhtliHC&show_icons=true&theme=radical)
+![CuauhtliHC's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuauhtliHC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
