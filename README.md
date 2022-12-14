@@ -66,11 +66,6 @@
         <a href="https://linkedin.com/in//in/cuauhtlihc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/cuauhtlihc/" height="30" width="40" /></a>
     </p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CuauhtliHC&repo=github-readme-stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CuauhtliHC&repo=convoychat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=CuauhtliHC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
     </a>
 </div>
-
-![CuauhtliHC's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuauhtliHC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
