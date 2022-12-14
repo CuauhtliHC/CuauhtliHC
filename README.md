@@ -12,5 +12,6 @@
 <a href="https://github.com/CuauhtliHC">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CuauhtliHC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuauhtliHC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuauhtliHC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
