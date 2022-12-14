@@ -14,4 +14,4 @@
 </a>
 </p>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuauhtliHC)](https://github.com/anuraghazra/github-readme-stats)
+[![CuauhtliHC](https://github-readme-stats.vercel.app/api?username=CuauhtliHC)](https://github.com/anuraghazra/github-readme-stats)
