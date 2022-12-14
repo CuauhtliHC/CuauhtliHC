@@ -14,5 +14,4 @@
 </a>
 </p>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=CuauhtliHC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuauhtliHC)](https://github.com/anuraghazra/github-readme-stats)
