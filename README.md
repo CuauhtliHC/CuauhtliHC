@@ -1,4 +1,3 @@
-### Cuauhtli Herrera 👋
 ![Cuauhtli's GitHub Banner](./images/banner.jpg)
 <div align="center">
 <h3 align="left">Lenguajes y herramientas que puedo utilizar:</h3>
