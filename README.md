@@ -14,4 +14,3 @@
 </a>
 </p>
 </div>
-[![CuauhtliHC](https://github-readme-stats.vercel.app/api?username=CuauhtliHC)](https://github.com/anuraghazra/github-readme-stats)
